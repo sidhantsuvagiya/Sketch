@@ -1,0 +1,245 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-button href="https://sidhant.ml" />
+    </mj-attributes>
+    <mj-title> Sketch Email</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+
+    <!-- Outer Section -->
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="12px" color="#969696">
+         <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml"  target="_blank" > View this email in your browser </a> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Logo Section -->
+
+    <mj-section background-color="#FFFFFF" padding="0px">
+      <mj-column>
+        <mj-image padding="0px" width="200px" src="https://i.ibb.co/wWCd6kM/logo.png" alt="Sketch logo" />
+        <mj-text font-weight="bold" padding="0px" align="center" color="#969696" font-size="10px">
+          NEWSLETTER — ISSUE 86
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+
+    <mj-section padding="20px" background-color="#FFFFFF">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/gMPNg24/Hero-Image.jpg" alt="bg-image" />
+        <mj-text font-weight="bold" line-height="30px" font-size="22px">
+          Behind the scenes: How we added real-time collaboration to a native Mac app
+        </mj-text>
+        <mj-text line-height="25px" font-size="16px">
+          Real-time collaboration was probably the largest and most challenging feature we’ve ever built for Sketch. So this month, we’re giving you a glimpse at the challenges and tech behind our biggest update ever. Spoiler: we DDOS'd ourselves in the process.
+        </mj-text>
+        <mj-button inner-padding="13px 40px" font-weight="bold" background-color="#212123" color="#ffffff">Read more</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Featured Section -->
+
+    <mj-section padding="30px 30px 10px 30px" background-color="#212123">
+      <mj-column>
+        <mj-text line-height="25px" padding="8px" font-weight="bold" color="#ffffff" font-size="22px"> Featured Extensions </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Two Columns Section -->
+
+    <mj-section padding="0px 30px 30px 30px" background-color="#212123">
+      <mj-column padding="5px 0px">
+        <mj-image padding="8px" src="https://i.ibb.co/BrKPxRB/Attention-Insight.png" alt="Attention Insight" />
+        <mj-text padding="8px" padding-bottom="0px" font-weight="bold" color="#ffffff" font-size="16px"> Attention Insight </mj-text>
+        <mj-text padding="8px" line-height="20px" color="#ffffff" font-size="13px"> Need to validate your design fast? These AI-generated attention heatmaps help you check your designs will convert. </mj-text>
+      </mj-column>
+      <mj-column padding="5px 0px">
+        <mj-image padding="8px" src="https://i.ibb.co/j3YPWV7/Switch-Theme.png" alt="Attention Insight" />
+        <mj-text padding="8px" padding-bottom="0px" font-weight="bold" color="#ffffff" font-size="16px"> Switch Theme </mj-text>
+        <mj-text padding="8px" line-height="20px" color="#ffffff" font-size="13px"> Creating an app with light and dark modes? This plugin will create an alternative view in a click. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Learn Section -->
+
+    <mj-section background-color="#ffffff" padding="20px 30px">
+      <mj-column>
+        <mj-text padding="8px" font-weight="bold" color="#000000" font-size="22px"> Learn </mj-text>
+        <mj-text font-style="italic" line-height="22px" padding="8px" color="#606060" font-size="15px">The more ownership and understanding developers have of the design and the decisions made, the easier it is for them to do their job well. Just as a well-defined design handover format makes it easier for designers to make sure the developers have what they need.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Two Columns Section -->
+
+    <mj-section background-color="#ffffff" padding="0px 20px">
+      <mj-group>
+        <mj-column vertical-align="middle" width="18%">
+          <mj-image align="right" padding="5px" width="40px" src="https://i.ibb.co/42Xymfy/sketch-round.png" alt="Sketch logo" />
+        </mj-column>
+        <mj-column vertical-align="middle" width="80%">
+          <mj-text line-height="17px" font-size="14px" color="#000000" font-weight="bold" padding="2px">How to set up your design process for smooth developer handoff </mj-text>
+          <mj-text color="#606060" font-size="12px" padding="2px"> by Sketch</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <!-- Second Learn Section -->
+
+    <mj-section background-color="#ffffff" padding="20px 30px">
+      <mj-column>
+        <mj-text font-style="italic" line-height="22px" padding="8px" color="#606060" font-size="15px">Make sure the functions your icons represent are clear. If you use anything other than universal icons, consider adding text labels to explain what the icon does. It’ll be incredibly helpful for new users.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Two Columns Section -->
+
+    <mj-section background-color="#ffffff" padding="0px 20px">
+      <mj-group>
+        <mj-column vertical-align="middle" width="18%">
+          <mj-image align="right" padding="5px" width="40px" src="https://i.ibb.co/WnzM5pQ/Renee-Fleck.png" alt="Sketch logo" />
+        </mj-column>
+        <mj-column vertical-align="middle" width="80%">
+          <mj-text line-height="17px" font-size="14px" color="#000000" font-weight="bold" padding="2px">10 iconography rules to follow in UI design</mj-text>
+          <mj-text color="#606060" font-size="12px" padding="2px">by Renee Fleck</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <!-- Videos Section -->
+
+    <mj-section background-color="#ffffff" padding="30px 30px 10px 30px">
+      <mj-column>
+        <mj-text padding="10px 8px 0px 8px" font-weight="bold" color="#000000" font-size="22px"> Videos </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Two Columns Videos Section -->
+
+    <mj-section background-color="#ffffff" padding="0px 30px 30px 30px">
+      <mj-column padding="5px 0px">
+        <mj-image padding="8px 8px 3px 8px" src="https://i.ibb.co/sgT6rpw/video1.png" alt="Attention Insight" />
+        <mj-text color="#000000" padding="8px" padding-bottom="0px" font-weight="bold" color="#ffffff" font-size="15px" line-height="20px">Charge MORE for your freelance design work </mj-text>
+        <mj-text color="#606060" font-size="12px" padding="5px 8px 8px 8px">by Renee Fleck</mj-text>
+        <mj-text color="#000000" padding="0px 8px 8px 8px" line-height="20px" color="#ffffff" font-size="13px"> Need to validate your design fast? These AI-generated attention heatmaps help you check your designs will convert. </mj-text>
+      </mj-column>
+      <mj-column  padding="5px 0px">
+        <mj-image padding="8px 8px 3px 8px" src="https://i.ibb.co/CWtV89L/video2.png" alt="Attention Insight" />
+        <mj-text color="#000000" padding="8px" padding-bottom="0px" font-weight="bold" color="#ffffff" font-size="15px" line-height="20px">Lokalise + Sketch: Designing for a global audience</mj-text>
+        <mj-text color="#606060" font-size="12px" padding="5px 8px 8px 8px">by Lokalise</mj-text>
+        <mj-text color="#000000" padding="0px 8px 8px 8px" line-height="20px" color="#ffffff" font-size="13px"> Discover the challenges of designing for a global audience — and how to overcome them — in this recent webinar. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Resources Section -->
+
+    <mj-section background-color="#ffffff" padding="0px 30px 10px 30px">
+      <mj-column>
+        <mj-text padding="8px" font-weight="bold" color="#000000" font-size="22px"> Resources</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Three Columns Section 1 -->
+
+    <mj-section background-color="#ffffff" padding="10px 30px 10px 30px">
+      <mj-column width="19%" vertical-align="middle">
+        <mj-image padding="8px" src="https://i.ibb.co/MN8m0Sv/i1.png" alt="i1" />
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text padding="8px" font-weight="bold" color="#000000" font-size="16px" line-height="19px"> Doodle Ipsum</mj-text>
+        <mj-text padding="0px 8px 8px 8px" line-height="17px" color="#606060" font-size="12px">This is the lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them in Sketch, or in your live web prototypes.</mj-text>
+      </mj-column>
+      <mj-column width="21%" vertical-align="middle">
+        <mj-button padding="10px 0px" font-size="12px" inner-padding="9px 15px" background-color="#212123" color="#ffffff">Download </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Three Columns Section 2 -->
+
+    <mj-section background-color="#ffffff" padding="10px 30px 10px 30px">
+      <mj-column width="19%" vertical-align="middle">
+        <mj-image padding="8px" src="https://i.ibb.co/P1n4vj9/i2.png" alt="i1" />
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text padding="8px" font-weight="bold" color="#000000" font-size="16px" line-height="19px"> Brand Identity Guidelines</mj-text>
+        <mj-text padding="0px 8px 8px 8px" line-height="17px" color="#606060" font-size="12px">Make your brand identity more understandable. With this template, you can add all your guidelines in a ready-made layout.</mj-text>
+      </mj-column>
+      <mj-column width="21%" vertical-align="middle">
+        <mj-button padding="10px 0px" font-size="12px" inner-padding="9px 15px" background-color="#212123" color="#ffffff">Download </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Three Columns Section 3 -->
+
+    <mj-section background-color="#ffffff" padding="10px 30px 10px 30px">
+      <mj-column width="19%" vertical-align="middle">
+        <mj-image padding="8px" src="https://i.ibb.co/dcNtgy4/i3.png" alt="i1" />
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text padding="8px" font-weight="bold" color="#000000" font-size="16px" line-height="19px">iOS 15 App Icon Template</mj-text>
+        <mj-text padding="0px 8px 8px 8px" line-height="17px" color="#606060" font-size="12px">Working on a new icon for iOS 15, watchOS 8 or macOS Monterey? This template will make your life easier. </mj-text>
+      </mj-column>
+      <mj-column width="21%" vertical-align="middle">
+        <mj-button padding="10px 0px" font-size="12px" inner-padding="9px 15px" background-color="#212123" color="#ffffff">Download </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Events and community Section -->
+
+    <mj-section background-color="#ffffff" padding="30px 30px 10px 30px">
+      <mj-column>
+        <mj-text padding="5px" font-weight="bold" color="#000000" font-size="22px">Events and community</mj-text>
+        <mj-text padding="5px" color="#606060" font-size="15px" line-height="19px">Discover the latest events and communities near you</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="10px 30px 10px 30px">
+      <mj-column width="19%" vertical-align="middle">
+        <mj-image padding="8px" src="https://i.ibb.co/9WWb6Xh/i4.png" alt="i1" />
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text padding="8px 8px 5px 8px" font-weight="bold" color="#000000" font-size="16px" line-height="19px">Sketch MK #5 — An evening of design</mj-text>
+        <mj-text padding="0px 8px 8px 8px" line-height="17px" color="#606060" font-size="12px">Milton Keynes, UK — 30 September</mj-text>
+      </mj-column>
+      <mj-column width="21%" vertical-align="middle">
+        <mj-button padding="10px 0px" font-size="12px" inner-padding="9px 33px" background-color="#212123" color="#ffffff">Join</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#969696" line-height="18px" font-size="12px">You received this email because you subscribed via the Sketch website. <br>
+          <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> Choose which emails you receive </a> or <a style="font-weight:bold;color:#606060;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> unsubscribe from all our emails. </a> <br> <br>
+          Sketch B.V., Flight Forum 40 Ground floor, 5657 DB, Eindhoven, the Netherlands
+        </mj-text>
+
+        <mj-social icon-size="35px">
+          <mj-social-element src="https://i.ibb.co/WBJbKxC/fb.png" href="https://mjml.io/" target="_blank" alt="fb"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/0ftHDcM/tw.png" href="https://mjml.io/" target="_blank" alt="tw"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/QNPGCnQ/sketch.png" href="https://mjml.io/" target="_blank" alt="sketch"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/WGpw4p6/Dribble.png" href="https://mjml.io/" target="_blank" alt="Dribble"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/R7MsfRH/Instagram.png" href="https://mjml.io/" target="_blank" alt="Instagram"> </mj-social-element>
+        </mj-social>
+
+        <mj-text align="center" color="#969696" line-height="18px" font-size="12px">
+          <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml" target="_blank">Forward this email to a friend</a> <br>
+          <a style="color:#969696;text-decoration:none!important;" href="https://sidhant.ml" target="_blank"> Privacy Statement </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
